@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Features of this project 
 
 - SPA (Single Page Application) with vue-router
@@ -8,3 +9,6 @@ Features of this project
 - Email Verifications
 - Notifications
 - and much more ...
+=======
+# TestApi
+>>>>>>> e71760241d3c9bd841c8d12cfb5776fba9bb1f4e
